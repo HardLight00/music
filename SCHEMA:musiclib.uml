@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.SCHEMA:musiclib</OriginalElement>
+  <nodes>
+    <node x="270.0" y="0.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.albums</node>
+    <node x="0.0" y="495.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.hibernate_sequence</node>
+    <node x="0.0" y="0.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.compositions</node>
+    <node x="256.0" y="221.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.songs</node>
+    <node x="276.0" y="370.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.performers_persons</node>
+    <node x="0.0" y="370.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.performers</node>
+    <node x="0.0" y="221.0">e3bc9f14-6a1e-4d24-9fe9-c0feeab22f4a.TABLE:musiclib.persons</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="246.5" y="275.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
